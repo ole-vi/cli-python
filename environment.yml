@@ -1,0 +1,12 @@
+name: treehouses-cli
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - setuptools
+  - click=7.0
+  - pytest=3.8.2
+  - pycodestyle
+  - gpiozero 
+  - speedtest-cli
